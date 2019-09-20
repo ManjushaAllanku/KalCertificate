@@ -1,4 +1,4 @@
 # KalCertificate
 
 
-certification of software developer completion from kal academmy seattle
+certification of software developer completion from kal academy seattle
